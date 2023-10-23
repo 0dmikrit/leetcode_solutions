@@ -21,6 +21,3 @@ class Solution:
         for i in range(len(nums) - 1):
             if nums[i] < target < nums[i + 1]:
                 return i + 1
-
-
-print(Solution().searchInsert([1,3,4,5], 6))
