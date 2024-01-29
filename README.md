@@ -28,10 +28,10 @@ My solutions with [LeetCode](https://leetcode.com/problemset/all/), using simple
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [autotest](https://github.com/0dmikrit/leetcode_solutions/blob/main/medium/medium_tests/test_longest_substring_without_repeating_characters.py)  [✅](https://github.com/0dmikrit/leetcode_solutions/blob/main/medium/medium_solutions/longest_substring_without_repeating_characters.py)
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - [autotest](https://github.com/0dmikrit/leetcode_solutions/blob/main/medium/medium_tests/test_container_with_most_water.py) [✅](https://github.com/0dmikrit/leetcode_solutions/blob/main/medium/medium_solutions/container_with_most_water.py)
 ## Hard
-
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) - [autotes](https://github.com/0dmikrit/leetcode_solutions/blob/main/hard/hard_tests/test_median_of_two_sorted_arrays.py)[✅](https://github.com/0dmikrit/leetcode_solutions/blob/main/hard/hard_solutions/median_of_two_sorted_arrays.py)
 # Results
 - Easy: 19
 - Medium: 2
-- Hard: 0
+- Hard: 1
 
 
